@@ -2,8 +2,7 @@
 
 # 🎮 Nowaroid Studios
 
-
-![Banner](https://github.com/user-attachments/assets/04e2bb5d-b604-45a2-b86b-4931f62dad5d)
+![Banner](https://via.placeholder.com/1200x300/0d1117/58a6ff?text=Nowaroid+Studios)
 
 ### Professionelle Entwicklung. Privat organisiert.
 
@@ -109,29 +108,6 @@ Alle Projekte entstehen **ohne kommerzielle Absichten** und werden **nicht als D
 - 🏗️ **Systemarchitektur** – Durchdachte Strukturen und Design Patterns
 - ✨ **Best Practices** – Moderne Entwicklungsstandards und Workflows
 - 📚 **Continuous Learning** – Experimentieren mit neuen Technologien
-
-###
-
-## 📊 GitHub Statistiken
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nowaroid-Studios&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=de&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nowaroid-Studios&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nowaroid-Studios&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Nowaroid-Studios.Nowaroid-Studios&left_color=darkslategrey&right_color=yellow"  />
-</div>
 
 ###
 
