@@ -44,7 +44,7 @@ Alle Projekte entstehen **ohne kommerzielle Absichten** und werden **nicht als D
 
 ###
 
-<h3 align="left">💻 Meine Programmiersprachen</h3>
+<h3 align="left">💻 Unsere Programmiersprachen</h3>
 
 ###
 
@@ -62,7 +62,7 @@ Alle Projekte entstehen **ohne kommerzielle Absichten** und werden **nicht als D
 
 ###
 
-<h3 align="left">🛠️ Meine Tools & Programme</h3>
+<h3 align="left">🛠️ Unsere Tools & Programme</h3>
 
 ###
 
