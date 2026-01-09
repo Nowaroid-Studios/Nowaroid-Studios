@@ -1,56 +1,123 @@
-<h2 align="left">Hi 👋! My name is Florian and I'm a dev from Germany</h2>
+<div align="center">
 
-###
+# 🎮 Nowaroid Studios
 
-<h3 align="left">My programs</h3>
+![Banner](https://via.placeholder.com/1200x300/0d1117/58a6ff?text=Nowaroid+Studios)
 
-###
+### Professionelle Entwicklung. Privat organisiert.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](https://github.com/nowaroid-studios)
+[![Private Project](https://img.shields.io/badge/Type-Private%20Development-blue.svg)](https://github.com/nowaroid-studios)
+[![No Commercial Use](https://img.shields.io/badge/Commercial-No-red.svg)](https://github.com/nowaroid-studios)
+
 </div>
+
+###
+
+<h2 align="left">Hi 👋! Ich bin Florian – Developer aus Deutschland</h2>
+
+###
+
+<img align="right" height="200" src="https://cdn.leonardo.ai/users/448575ec-2432-4881-8c84-d8f925a25b2f/generations/ef1da7b6-1973-4e63-b541-bb8c37e0a2d8/variations/Default_Create_an_animestyle_profile_picture_of_a_young_adult_3_ef1da7b6-1973-4e63-b541-bb8c37e0a2d8_0.png"  />
+
+## 🎯 Über Nowaroid Studios
+
+**Nowaroid Studios** ist mein privates Entwickler-Studio – kein Unternehmen, kein Gewerbe, aber mit professionellem Anspruch an Code-Qualität und Systemarchitektur.
+
+### 🛠️ Entwicklungsbereiche
+
+- **Discord-Automation** – Bots, Tools & Integrationen
+- **Game-Server-Infrastruktur** – Backend & Verwaltungstools
+- **Web-Entwicklung** – Moderne Webanwendungen
 
 ###
 
 <br clear="both">
 
-<h3 align="left">My programming language</h3>
+## 📋 Philosophie
+
+<div align="center">
+
+| ❌ **Nicht verfügbar** | ✅ **Fokus** |
+|:---:|:---:|
+| Auftragsarbeiten | Eigene Weiterentwicklung |
+| Kommerzieller Support | Technische Experimente |
+| Dienstleistungen | Community-Projekte |
+
+</div>
+
+Alle Projekte entstehen **ohne kommerzielle Absichten** und werden **nicht als Dienstleistung angeboten**. Die hier gezeigten Systeme dienen der persönlichen technischen Weiterentwicklung und dem Austausch mit der Community.
+
+###
+
+<h3 align="left">💻 Meine Programmiersprachen</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
 
-<h3 align="left">My Social Media</h3>
+<h3 align="left">🛠️ Meine Tools & Programme</h3>
 
 ###
 
-<img align="right" height="200" src="https://cdn.leonardo.ai/users/448575ec-2432-4881-8c84-d8f925a25b2f/generations/ef1da7b6-1973-4e63-b541-bb8c37e0a2d8/variations/Default_Create_an_animestyle_profile_picture_of_a_young_adult_3_ef1da7b6-1973-4e63-b541-bb8c37e0a2d8_0.png"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h3 align="left">🎨 Design & Kreativ-Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="premiere logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
+</div>
+
+###
+
+## ⚙️ Technischer Anspruch
+
+- 🧹 **Clean Code** – Lesbare, wartbare und dokumentierte Codebasis
+- 🏗️ **Systemarchitektur** – Durchdachte Strukturen und Design Patterns
+- ✨ **Best Practices** – Moderne Entwicklungsstandards und Workflows
+- 📚 **Continuous Learning** – Experimentieren mit neuen Technologien
+
+###
+
+<h3 align="left">🌐 Meine Social Media</h3>
 
 ###
 
@@ -67,16 +134,63 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nowaro-official.nowaro-official&left_color=darkslategrey&right_color=yellow"  />
+## 📊 GitHub Statistiken
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nowaro-official&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=de&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nowaro-official&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowaro-official&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowaro-official&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nowaro-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowaro-official&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nowaroid-studios.nowaroid-studios&left_color=darkslategrey&right_color=yellow"  />
 </div>
 
 ###
+
+## 📂 Projekte
+
+Die Repositories in dieser Organisation zeigen verschiedene technische Lösungen und Experimente. Jedes Projekt steht für sich und dokumentiert einen bestimmten Entwicklungsansatz oder eine technische Herausforderung.
+
+<div align="center">
+
+> 💡 **Hinweis:** Die Projekte werden nach Bedarf entwickelt und aktualisiert. Es gibt keine Garantie für Wartung oder Support.
+
+</div>
+
+###
+
+## 🤝 Community
+
+Obwohl keine Aufträge angenommen werden, freue ich mich über:
+
+- 💬 Technischen Austausch und Diskussionen
+- 🔍 Feedback zu Projekten und Implementierungen
+- 💡 Inspiration durch andere Entwickler
+
+###
+
+## 📬 Kontakt
+
+Für technische Fragen oder Austausch zu spezifischen Projekten nutze bitte die Issues der jeweiligen Repositories.
+
+---
+
+<div align="center">
+
+### 🚀 Nowaroid Studios
+
+**Entwicklung aus Leidenschaft, nicht aus Profit.**
+
+<sub>Made with ❤️ and ☕ by Florian</sub>
+
+</div>
