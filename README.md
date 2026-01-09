@@ -114,14 +114,14 @@ Alle Projekte entstehen **ohne kommerzielle Absichten** und werden **nicht als D
 ## 📊 GitHub Statistiken
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowaro-official&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=de&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nowaro-official&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nowaroid-Studios&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=de&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nowaroid-Studios&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowaro-official&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nowaroid-Studios&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -129,7 +129,7 @@ Alle Projekte entstehen **ohne kommerzielle Absichten** und werden **nicht als D
 <br clear="both">
 
 <div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nowaroid-studios.nowaroid-studios&left_color=darkslategrey&right_color=yellow"  />
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Nowaroid-Studios.Nowaroid-Studios&left_color=darkslategrey&right_color=yellow"  />
 </div>
 
 ###
