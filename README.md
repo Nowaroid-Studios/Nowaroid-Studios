@@ -14,15 +14,9 @@
 
 ###
 
-<h2 align="left">Hi 👋! Ich bin Florian – Developer aus Deutschland</h2>
-
-###
-
-<img align="right" height="200" src="https://cdn.leonardo.ai/users/448575ec-2432-4881-8c84-d8f925a25b2f/generations/ef1da7b6-1973-4e63-b541-bb8c37e0a2d8/variations/Default_Create_an_animestyle_profile_picture_of_a_young_adult_3_ef1da7b6-1973-4e63-b541-bb8c37e0a2d8_0.png"  />
-
 ## 🎯 Über Nowaroid Studios
 
-**Nowaroid Studios** ist mein privates Entwickler-Studio – kein Unternehmen, kein Gewerbe, aber mit professionellem Anspruch an Code-Qualität und Systemarchitektur.
+**Nowaroid Studios** ist ein privates Entwickler-Studio – kein Unternehmen, kein Gewerbe, aber mit professionellem Anspruch an Code-Qualität und Systemarchitektur.
 
 ### 🛠️ Entwicklungsbereiche
 
@@ -171,7 +165,7 @@ Die Repositories in dieser Organisation zeigen verschiedene technische Lösungen
 
 ## 🤝 Community
 
-Obwohl keine Aufträge angenommen werden, freue ich mich über:
+Obwohl keine Aufträge angenommen werden, freuen wir uns über:
 
 - 💬 Technischen Austausch und Diskussionen
 - 🔍 Feedback zu Projekten und Implementierungen
@@ -191,6 +185,6 @@ Für technische Fragen oder Austausch zu spezifischen Projekten nutze bitte die 
 
 **Entwicklung aus Leidenschaft, nicht aus Profit.**
 
-<sub>Made with ❤️ and ☕ by Florian</sub>
+<sub>Made with ❤️ and ☕</sub>
 
 </div>
